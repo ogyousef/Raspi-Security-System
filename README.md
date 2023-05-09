@@ -1,6 +1,6 @@
 # Raspi-Security-System
 Raspi Security System that uses camera and motion sensors, that also supports email notifications and alerts
-#---------------------------------------------------------------------------------------------------------------------------#
+# #---------------------------------------------------------------------------------------------------------------------------#
 The full project contains the following files:
 camera.cpp, CMakeLists.txt, CMakeLists.txt.user, history.cpp, history.h
 history.ui, json.hpp, Login.cpp, Login.h, main.cpp, main.h, mainwindow.cpp,
@@ -41,4 +41,4 @@ When logged in, there are functions to arm the camera, switch between taking
 photos or videos, checking to send an email alert to your account, and viewing
 saved photos. When photos or videos are taken, a folder will be created under
 your username that will store them.
-#---------------------------------------------------------------------------------------------------------------------------#
+# #---------------------------------------------------------------------------------------------------------------------------#
