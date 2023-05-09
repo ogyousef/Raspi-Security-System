@@ -1,0 +1,83 @@
+{
+    "totalItems": 6,
+    "users": [
+        {
+            "admin": false,
+            "emails": [
+                "jsmit822@uwo.ca"
+            ],
+            "password": "\u000f\n\u0017\u001f\u0001\u001c\b\u0017\u0000\u001b\u0011",
+            "photos": [
+                ""
+            ],
+            "sendAlerts": true,
+            "sensitivity": 2,
+            "username": "jsmit822"
+        },
+        {
+            "admin": false,
+            "emails": [
+                "osamaysof0@gmail.com"
+            ],
+            "password": "ZWJ_PO",
+            "photos": [
+                ""
+            ],
+            "sendAlerts": true,
+            "sensitivity": 2,
+            "username": "user1"
+        },
+        {
+            "admin": false,
+            "emails": [
+                "sara115577@gmail.com"
+            ],
+            "password": "ZWJ_PO",
+            "photos": [
+                ""
+            ],
+            "sendAlerts": true,
+            "sensitivity": 2,
+            "username": "user11"
+        },
+        {
+            "admin": false,
+            "emails": [
+                "test@gmail.com"
+            ],
+            "password": "\n\u0001\u0014\u0002\u000bH",
+            "photos": [
+                ""
+            ],
+            "sendAlerts": true,
+            "sensitivity": 2,
+            "username": "admin"
+        },
+        {
+            "admin": false,
+            "emails": [
+                "test123@gmail.com"
+            ],
+            "password": "\u000f\n\u0017\u001f\u0001\u001c\b\u0017\u0000\u001b\u0011",
+            "photos": [
+                ""
+            ],
+            "sendAlerts": true,
+            "sensitivity": 2,
+            "username": "admin2"
+        },
+        {
+            "admin": false,
+            "emails": [
+                "oyousef3@uwo.ca"
+            ],
+            "password": "ZWJ_PO",
+            "photos": [
+                ""
+            ],
+            "sendAlerts": true,
+            "sensitivity": 2,
+            "username": "yousef"
+        }
+    ]
+}
